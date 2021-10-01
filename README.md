@@ -1,7 +1,7 @@
 # Tic Tac Toe
 This is probably the most simplest Tic Tac Toe web game you can find but a nice start for newbies :)
 
-Live Preview: http://www.sagital.net/tictactoe/
+Live Preview: https://www.sagital.net/tictactoe/
 
 <br>
 <br>
